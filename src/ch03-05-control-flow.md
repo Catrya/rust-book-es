@@ -261,7 +261,7 @@ usamos un punto y coma para terminar la instrucción que asigna el valor a
 `result`. Finalmente, imprimimos el valor en `result`, que en este caso es
 `20`.
 
-Tu puedes también usar `return` dentro de un loop. Mientras `break` solo existe
+Tú puedes también usar `return` dentro de un loop. Mientras `break` solo existe
 para el loop actual, `return` siempre existe para la función actual.
 
 #### Etiquetas de bucle para distinguir entre varios bucles
